@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make: MyString
+  house: MyString
+  name: MyString
+  date: MyString
+  of: MyString
+  birth: 1
+
+two:
+  make: MyString
+  house: MyString
+  name: MyString
+  date: MyString
+  of: MyString
+  birth: 1

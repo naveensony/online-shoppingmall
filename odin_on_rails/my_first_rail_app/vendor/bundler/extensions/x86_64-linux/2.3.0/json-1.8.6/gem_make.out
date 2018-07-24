@@ -1,0 +1,13 @@
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/json-1.8.6/ext/json
+/usr/bin/ruby2.3 -r ./siteconf20180724-2485-s1gxij.rb extconf.rb
+creating Makefile
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/json-1.8.6/ext/json
+make "DESTDIR=" install

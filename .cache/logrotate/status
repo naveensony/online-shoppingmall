@@ -1,0 +1,11 @@
+logrotate state -- version 2
+"/home/naveen/.cache/upstart/dbus.log" 2018-7-24-19:0:0
+"/home/naveen/.cache/upstart/gnome-keyring-ssh.log" 2018-7-24-19:0:0
+"/home/naveen/.cache/upstart/unity7.log" 2018-7-24-19:0:0
+"/home/naveen/.cache/upstart/ssh-agent.log" 2018-7-24-19:0:0
+"/home/naveen/.cache/upstart/indicator-sound.log" 2018-7-24-19:0:0
+"/home/naveen/.cache/upstart/unity-panel-service.log" 2018-7-24-19:0:0
+"/home/naveen/.cache/upstart/upstart-event-bridge.log" 2018-7-24-19:0:0
+"/home/naveen/.cache/upstart/gpg-agent.log" 2018-7-24-19:0:0
+"/home/naveen/.cache/upstart/unity-settings-daemon.log" 2018-7-24-19:0:0
+"/home/naveen/.cache/upstart/window-stack-bridge.log" 2018-7-24-19:0:0

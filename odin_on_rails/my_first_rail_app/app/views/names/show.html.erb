@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Make:</strong>
+  <%= @name.make %>
+</p>
+
+<p>
+  <strong>House:</strong>
+  <%= @name.house %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @name.name %>
+</p>
+
+<p>
+  <strong>Date:</strong>
+  <%= @name.date %>
+</p>
+
+<p>
+  <strong>Of:</strong>
+  <%= @name.of %>
+</p>
+
+<p>
+  <strong>Birth:</strong>
+  <%= @name.birth %>
+</p>
+
+<%= link_to 'Edit', edit_name_path(@name) %> |
+<%= link_to 'Back', names_path %>

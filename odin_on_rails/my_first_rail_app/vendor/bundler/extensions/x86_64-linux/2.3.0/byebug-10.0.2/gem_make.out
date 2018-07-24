@@ -1,0 +1,19 @@
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/byebug-10.0.2/ext/byebug
+/usr/bin/ruby2.3 -r ./siteconf20180724-2485-1ceio9d.rb extconf.rb
+creating Makefile
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20180724-2485-118t73c/byebug

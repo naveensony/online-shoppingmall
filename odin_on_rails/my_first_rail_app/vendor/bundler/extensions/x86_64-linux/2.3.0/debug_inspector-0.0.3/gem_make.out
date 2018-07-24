@@ -1,0 +1,15 @@
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/debug_inspector-0.0.3/ext/debug_inspector
+/usr/bin/ruby2.3 -r ./siteconf20180724-2485-17msxo1.rb extconf.rb
+creating Makefile
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20180724-2485-1seh4sq

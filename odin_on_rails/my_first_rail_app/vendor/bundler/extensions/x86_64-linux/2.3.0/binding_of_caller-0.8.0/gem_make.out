@@ -1,0 +1,16 @@
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/usr/bin/ruby2.3 -r ./siteconf20180724-2485-3wwmmr.rb extconf.rb
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /home/naveen/odin_on_rails/my_first_rail_app/vendor/bundler/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
