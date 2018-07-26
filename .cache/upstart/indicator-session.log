@@ -1,0 +1,2 @@
+
+(unity-control-center:18268): Gtk-CRITICAL **: gtk_widget_queue_draw: assertion 'GTK_IS_WIDGET (widget)' failed

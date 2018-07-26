@@ -1,0 +1,26 @@
+<monitors version="1">
+  <configuration>
+      <clone>no</clone>
+      <output name="eDP-1">
+          <vendor>AUO</vendor>
+          <product>0x2d3c</product>
+          <serial>0x00000000</serial>
+      </output>
+      <output name="HDMI-1">
+      </output>
+      <output name="DP-1">
+          <vendor>GSM</vendor>
+          <product>0x4eed</product>
+          <serial>0x0003ec5a</serial>
+          <width>1600</width>
+          <height>900</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+  </configuration>
+</monitors>
