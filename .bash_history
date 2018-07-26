@@ -148,3 +148,40 @@ cd my_first_rail_app
 rails generate scaffold name make:string house name:string date of birth:integer
 rake db:migrate
 rails server
+git init
+cd odin_on_rails
+cd my_first_rail_app
+git init
+git add.
+add
+cd
+git
+add
+git add
+git add.
+git add .
+git commit -m "initial commit"
+git remote add origin git@github.com:naveensony/online-shoppingmall.git
+git push -u origin master
+git remote add origin git@github.com:naveensony/online-shoppingmall.git
+git push -u origin master
+curl https://cli-assets.heroku.com/install.sh | sh
+sudo apt install curl
+curl https://cli-assets.heroku.com/install.sh | sh
+heroku version
+heroku keys:add
+heroku create
+git remote show
+ls
+Gemfile
+ls
+bundle install --without production
+cd odin_on_rails
+cd my_first_rail_app
+bundle install --without production
+ls
+git add .
+cd
+git add .
+git commit -m 'updates for heroku deploymeny'
+git push
